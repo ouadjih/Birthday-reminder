@@ -1,0 +1,30 @@
+.card {
+  height: 500px;
+  width: 350px;
+  background-color: aliceblue;
+  border-radius: 1em;
+}
+.title {
+  position: relative;
+  top: 1em;
+  left: 2em;
+  font-size: 25px;
+  color: rgb(69, 70, 70);
+}
+.list {
+  position: relative;
+  top: 3em;
+  left: 3em;
+}
+.btn {
+  position: relative;
+  top: 4em;
+  left: 2em;
+  padding: 1em 6em;
+  font-size: 18px;
+  border: none;
+  border-radius: 1em;
+  background-color: rgb(225, 114, 180);
+  color: white;
+  cursor: pointer;
+}
